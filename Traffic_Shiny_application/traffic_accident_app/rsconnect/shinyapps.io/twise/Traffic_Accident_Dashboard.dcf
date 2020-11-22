@@ -1,0 +1,13 @@
+name: Traffic_Accident_Dashboard
+title: Traffic_Accident_Dashboard
+username:
+account: twise
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3281727
+bundleId: 3890717
+url: https://twise.shinyapps.io/Traffic_Accident_Dashboard/
+when: 1606044060.38849
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: sample_dat.R|data/US_Accidents_June20.csv
